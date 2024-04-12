@@ -1,5 +1,6 @@
 # RestaurantAnalyzer
 /****************************************************************************
+
 *Author: Cindy Rocha
 *Class CS141, Fall 2023
 *Date: Nov. 11 2023
