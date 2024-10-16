@@ -17,5 +17,4 @@
 * 
 * information and, inspection information.
 * 
-*Environment: zyBooks Lab
 *****************************************************************************/
